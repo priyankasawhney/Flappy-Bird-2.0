@@ -1,1 +1,1 @@
-# Flappy-Bird-2.0
+# FlappyBird
